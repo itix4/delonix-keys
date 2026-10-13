@@ -1,6 +1,6 @@
 #!/bin/bash
 
-GITHUB_KEYS="https://github.com/pannikita.keys"
+GITHUB_KEYS="https://github.com/itix4.keys"
 KEYS_FILE="/tmp/github_keys.tmp"
 SSHD_CONFIG="/etc/ssh/sshd_config"
 
